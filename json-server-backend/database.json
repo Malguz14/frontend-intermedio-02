@@ -34,20 +34,6 @@
   ],
   "transactions": [
     {
-      "id": "2",
-      "type": "expense",
-      "amount": 280,
-      "category": "shopping",
-      "date": "2023-11-26"
-    },
-    {
-      "id": "3",
-      "type": "expense",
-      "amount": 60,
-      "category": "entertainment",
-      "date": "2023-11-27"
-    },
-    {
       "id": "4",
       "type": "income",
       "amount": 500,
@@ -55,18 +41,18 @@
       "date": "2023-11-28"
     },
     {
-      "amount": 200,
+      "amount": 50,
+      "type": "expense",
+      "category": "food",
+      "date": "2023-12-01",
+      "id": "5nFUhxL"
+    },
+    {
+      "amount": 300,
       "type": "expense",
       "category": "entertainment",
       "date": "2023-11-29",
-      "id": "U-yraKw"
-    },
-    {
-      "amount": 100,
-      "type": "income",
-      "category": "payroll",
-      "date": "2023-11-29",
-      "id": "JvmQuBX"
+      "id": "aKmZlCT"
     }
   ]
 }
